@@ -1,5 +1,3 @@
-# Hello there! 👋
-
 ## About Me
 I'm currently a student at Soongsil University with a passion for technology and creativity. I am keen on learning new technologies and using them to solve problems.
 
@@ -20,6 +18,5 @@ I'm currently a student at Soongsil University with a passion for technology and
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## Contact
-- 📧 Email: lyeemingue@naver.com
 - 📝 Blog: [mode-creative.tistory.com](https://mode-creative.tistory.com)
 
