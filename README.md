@@ -5,13 +5,11 @@ I'm currently a student at Soongsil University with a passion for technology and
 
 ## Education
 - 🏫 **Soongsil University**
-  - Major: [Enter your major here]
-  - Year: [Enter your current year of study here]
+  - Major: Computer science
 
 ## BOJ(Solve algorithmic problems)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=marker3687)](https://solved.ac/{handle})
-
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
