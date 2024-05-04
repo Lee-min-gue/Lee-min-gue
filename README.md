@@ -1,35 +1,34 @@
-# 안녕하세요! 👋
+# Hello there! 👋
 
-## 소개
-숭실대학교에 재학 중인 열정적인 학생입니다. 저는 기술과 창의성을 사랑하며, 새로운 기술을 배우고 이를 통해 문제를 해결하는 것에 큰 흥미를 느낍니다.
+## About Me
+I'm currently a student at Soongsil University with a passion for technology and creativity. I am keen on learning new technologies and using them to solve problems.
 
-## 교육
-- 🏫 **숭실대학교**
-  - 전공: [여기에 전공을 입력하세요]
-  - 학년: [여기에 학년을 입력하세요]
+## Education
+- 🏫 **Soongsil University**
+  - Major: [Enter your major here]
+  - Year: [Enter your current year of study here]
 
-## 프로젝트
-[여기에 진행 중이거나 완료된 프로젝트에 대한 설명을 추가하세요. 예시를 포함할 수 있습니다.]
+## Projects
+[Add descriptions of ongoing or completed projects here. You might include examples.]
 
-- **프로젝트 1**: 프로젝트에 대한 간단한 설명 (사용된 기술, 목적, 결과 등)
-- **프로젝트 2**: 프로젝트에 대한 간단한 설명
+- **Project 1**: Brief description of the project (technologies used, purpose, outcomes, etc.)
+- **Project 2**: Brief description of the project
 
-## 기술 스택
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-[//]: # (기술 스택은 필요에 따라 추가하거나 제거하세요.)
+## Contact
+- 📧 Email: [Enter your email address]
+- 📝 Blog: [mode-creative.tistory.com](https://mode-creative.tistory.com)
 
-## 연락처
-- 📧 이메일: [이메일 주소 입력]
-- 📝 블로그: [mode-creative.tistory.com](https://mode-creative.tistory.com)
-
-## 기타
-[여기에 추가하고 싶은 내용을 자유롭게 작성하세요.]
+## Additional Information
+[Freely add any other information you'd like here.]
 
 ---
-감사합니다! 깃허브 프로필을 방문해 주셔서 감사합니다! 😊
+Thank you for visiting my GitHub profile! 😊
+
 
 
 [![Solved.ac
